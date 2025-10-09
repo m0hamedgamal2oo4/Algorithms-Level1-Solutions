@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem1---Print  your name\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ED705D-5069-4AB6-9EB2-32D330914A12}|Problem1---Print  your name\\Problem1---Print  your name.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem1---Print  your name\\Problem1---Print  your name\\Problem1---Print  your name.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1ED705D-5069-4AB6-9EB2-32D330914A12}|Problem1---Print  your name\\Problem1---Print  your name.vcxproj|solutionrelative:Problem1---Print  your name\\Problem1---Print  your name.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem1---Print  your name.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem1---Print  your name\\Problem1---Print  your name\\Problem1---Print  your name.cpp",
+              "RelativeDocumentMoniker": "Problem1---Print  your name\\Problem1---Print  your name.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem1---Print  your name\\Problem1---Print  your name\\Problem1---Print  your name.cpp",
+              "RelativeToolTip": "Problem1---Print  your name\\Problem1---Print  your name.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T23:15:55.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

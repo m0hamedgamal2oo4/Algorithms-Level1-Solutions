@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #09---Sum Of 3 Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21993F79-2C59-42B5-A8F8-626C89A7629C}|Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21993F79-2C59-42B5-A8F8-626C89A7629C}|Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers.vcxproj|solutionrelative:Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #09---Sum Of 3 Numbers.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers.cpp",
+              "RelativeDocumentMoniker": "Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers.cpp*",
+              "RelativeToolTip": "Problem #09---Sum Of 3 Numbers\\Problem #09---Sum Of 3 Numbers.cpp*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-09T18:16:10.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #06---FullName\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7E3655-A331-4FA5-95E8-C4ABD9175471}|Problem #06---FullName\\Problem #06---FullName.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #06---FullName\\Problem #06---FullName\\Problem #06---FullName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD7E3655-A331-4FA5-95E8-C4ABD9175471}|Problem #06---FullName\\Problem #06---FullName.vcxproj|solutionrelative:Problem #06---FullName\\Problem #06---FullName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #06---FullName.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #06---FullName\\Problem #06---FullName\\Problem #06---FullName.cpp",
+              "RelativeDocumentMoniker": "Problem #06---FullName\\Problem #06---FullName.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #06---FullName\\Problem #06---FullName\\Problem #06---FullName.cpp",
+              "RelativeToolTip": "Problem #06---FullName\\Problem #06---FullName.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-09T14:52:56.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

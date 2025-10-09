@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #10---Average of 3 Marks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3D5748-66C2-4D58-B889-76EE32232A2E}|Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3D5748-66C2-4D58-B889-76EE32232A2E}|Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks.vcxproj|solutionrelative:Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #10---Average of 3 Marks.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks.cpp",
+              "RelativeDocumentMoniker": "Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks.cpp",
+              "RelativeToolTip": "Problem #10---Average of 3 Marks\\Problem #10---Average of 3 Marks.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-09T18:30:20.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

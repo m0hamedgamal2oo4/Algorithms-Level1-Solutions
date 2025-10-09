@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem2------Read Name and Print IT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D36B65EC-E652-485E-A6F4-B6F6D0921ED8}|Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D36B65EC-E652-485E-A6F4-B6F6D0921ED8}|Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT.vcxproj|solutionrelative:Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem2------Read Name and Print IT.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT.cpp",
+              "RelativeDocumentMoniker": "Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT.cpp",
+              "RelativeToolTip": "Problem2------Read Name and Print IT\\Problem2------Read Name and Print IT.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-09T11:44:49.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
