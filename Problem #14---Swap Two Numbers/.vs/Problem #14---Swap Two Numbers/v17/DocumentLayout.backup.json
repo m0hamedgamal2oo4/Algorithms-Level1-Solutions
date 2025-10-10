@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #14---Swap Two Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE9446B-3391-47B6-808D-A04B885745B5}|Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BE9446B-3391-47B6-808D-A04B885745B5}|Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers.vcxproj|solutionrelative:Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #14---Swap Two Numbers.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers.cpp",
+              "RelativeDocumentMoniker": "Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers.cpp",
+              "RelativeToolTip": "Problem #14---Swap Two Numbers\\Problem #14---Swap Two Numbers.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T19:36:15.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
