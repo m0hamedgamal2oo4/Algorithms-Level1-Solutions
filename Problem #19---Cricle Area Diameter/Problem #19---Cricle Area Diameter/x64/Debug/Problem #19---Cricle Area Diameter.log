@@ -1,0 +1,4 @@
+﻿  Problem #19---Cricle Area Diameter.cpp
+F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #19---Cricle Area Diameter\Problem #19---Cricle Area Diameter\Problem #19---Cricle Area Diameter.cpp(21,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #19---Cricle Area Diameter\Problem #19---Cricle Area Diameter\Problem #19---Cricle Area Diameter.cpp(24,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problem #19---Cricle Area Diameter.vcxproj -> F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #19---Cricle Area Diameter\x64\Debug\Problem #19---Cricle Area Diameter.exe

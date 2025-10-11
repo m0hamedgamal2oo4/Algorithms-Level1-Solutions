@@ -1,0 +1,4 @@
+﻿  Problem #20---Circle Area Inscribed in a Square.cpp
+F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #20---Circle Area Inscribed in a Square\Problem #20---Circle Area Inscribed in a Square\Problem #20---Circle Area Inscribed in a Square.cpp(24,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #20---Circle Area Inscribed in a Square\Problem #20---Circle Area Inscribed in a Square\Problem #20---Circle Area Inscribed in a Square.cpp(26,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problem #20---Circle Area Inscribed in a Square.vcxproj -> F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #20---Circle Area Inscribed in a Square\x64\Debug\Problem #20---Circle Area Inscribed in a Square.exe
