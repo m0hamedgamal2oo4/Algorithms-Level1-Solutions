@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #25 --- Validate Age Between 18 and 45\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9BFBA0-C370-4780-9A68-DE85F1522C49}|Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F9BFBA0-C370-4780-9A68-DE85F1522C49}|Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45.vcxproj|solutionrelative:Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #25 --- Validate Age Between 18 and 45.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45.cpp",
+              "RelativeDocumentMoniker": "Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45.cpp",
+              "RelativeToolTip": "Problem #25 --- Validate Age Between 18 and 45\\Problem #25 --- Validate Age Between 18 and 45.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-11T13:36:07.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

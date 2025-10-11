@@ -1,0 +1,4 @@
+﻿  Problem #23 --- Circle Area By Triangle Sides.cpp
+F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #23 --- Circle Area By Triangle Sides\Problem #23 --- Circle Area By Triangle Sides\Problem #23 --- Circle Area By Triangle Sides.cpp(22,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #23 --- Circle Area By Triangle Sides\Problem #23 --- Circle Area By Triangle Sides\Problem #23 --- Circle Area By Triangle Sides.cpp(25,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problem #23 --- Circle Area By Triangle Sides.vcxproj -> F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #23 --- Circle Area By Triangle Sides\x64\Debug\Problem #23 --- Circle Area By Triangle Sides.exe

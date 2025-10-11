@@ -1,0 +1,4 @@
+﻿  Problem #21---Circle Area By Circumference.cpp
+F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #21---Circle Area By Circumference\Problem #21---Circle Area By Circumference\Problem #21---Circle Area By Circumference.cpp(18,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #21---Circle Area By Circumference\Problem #21---Circle Area By Circumference\Problem #21---Circle Area By Circumference.cpp(19,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problem #21---Circle Area By Circumference.vcxproj -> F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #21---Circle Area By Circumference\x64\Debug\Problem #21---Circle Area By Circumference.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #23 --- Circle Area By Triangle Sides\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F7D193-CCEE-4911-9084-F3F059BB1E25}|Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79F7D193-CCEE-4911-9084-F3F059BB1E25}|Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides.vcxproj|solutionrelative:Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #23 --- Circle Area By Triangle Sides.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides.cpp",
+              "RelativeDocumentMoniker": "Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides.cpp*",
+              "RelativeToolTip": "Problem #23 --- Circle Area By Triangle Sides\\Problem #23 --- Circle Area By Triangle Sides.cpp*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-11T13:32:41.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  Problem #22--- Circle Area By Isosceles Triangle.cpp
+F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #22--- Circle Area By Isosceles Triangle\Problem #22--- Circle Area By Isosceles Triangle\Problem #22--- Circle Area By Isosceles Triangle.cpp(19,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #22--- Circle Area By Isosceles Triangle\Problem #22--- Circle Area By Isosceles Triangle\Problem #22--- Circle Area By Isosceles Triangle.cpp(20,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problem #22--- Circle Area By Isosceles Triangle.vcxproj -> F:\04 - Algorithms & Problem-Solving Level 1 Solutions\Problem #22--- Circle Area By Isosceles Triangle\x64\Debug\Problem #22--- Circle Area By Isosceles Triangle.exe
