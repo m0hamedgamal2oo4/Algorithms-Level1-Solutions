@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #29---sum of even numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB767F2-782B-43A4-9AE2-259713CE536E}|Problem #29---sum of even numbers\\Problem #29---sum of even numbers.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #29---sum of even numbers\\Problem #29---sum of even numbers\\Problem #29---sum of even numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CB767F2-782B-43A4-9AE2-259713CE536E}|Problem #29---sum of even numbers\\Problem #29---sum of even numbers.vcxproj|solutionrelative:Problem #29---sum of even numbers\\Problem #29---sum of even numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #29---sum of even numbers.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #29---sum of even numbers\\Problem #29---sum of even numbers\\Problem #29---sum of even numbers.cpp",
+              "RelativeDocumentMoniker": "Problem #29---sum of even numbers\\Problem #29---sum of even numbers.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #29---sum of even numbers\\Problem #29---sum of even numbers\\Problem #29---sum of even numbers.cpp",
+              "RelativeToolTip": "Problem #29---sum of even numbers\\Problem #29---sum of even numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T15:49:06.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
