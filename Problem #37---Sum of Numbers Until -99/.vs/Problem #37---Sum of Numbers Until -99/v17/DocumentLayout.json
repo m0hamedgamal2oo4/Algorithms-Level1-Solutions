@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #37---Sum of Numbers Until -99\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C4FF06-7AA8-4ABD-81CA-A1A9DC5123BD}|Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31C4FF06-7AA8-4ABD-81CA-A1A9DC5123BD}|Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99.vcxproj|solutionrelative:Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #37---Sum of Numbers Until -99.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99.cpp",
+              "RelativeDocumentMoniker": "Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99.cpp",
+              "RelativeToolTip": "Problem #37---Sum of Numbers Until -99\\Problem #37---Sum of Numbers Until -99.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T23:13:47.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
