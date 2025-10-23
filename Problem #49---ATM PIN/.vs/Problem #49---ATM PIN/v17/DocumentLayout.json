@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #49---ATM PIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBE280C-FDF9-43E7-870F-23E9DB052A81}|Problem #49---ATM PIN\\Problem #49---ATM PIN.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #49---ATM PIN\\Problem #49---ATM PIN\\Problem #49---ATM PIN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEBE280C-FDF9-43E7-870F-23E9DB052A81}|Problem #49---ATM PIN\\Problem #49---ATM PIN.vcxproj|solutionrelative:Problem #49---ATM PIN\\Problem #49---ATM PIN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #49---ATM PIN.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #49---ATM PIN\\Problem #49---ATM PIN\\Problem #49---ATM PIN.cpp",
+              "RelativeDocumentMoniker": "Problem #49---ATM PIN\\Problem #49---ATM PIN.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #49---ATM PIN\\Problem #49---ATM PIN\\Problem #49---ATM PIN.cpp",
+              "RelativeToolTip": "Problem #49---ATM PIN\\Problem #49---ATM PIN.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwCsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-23T12:11:24.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

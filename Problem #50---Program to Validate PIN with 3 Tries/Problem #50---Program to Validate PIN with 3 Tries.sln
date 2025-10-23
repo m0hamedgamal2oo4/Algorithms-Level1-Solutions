@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem #50---Program to Validate PIN with 3 Tries", "Problem #50---Program to Validate PIN with 3 Tries\Problem #50---Program to Validate PIN with 3 Tries.vcxproj", "{A2145EE0-8A00-481B-AA5B-E8D27ED84A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2145EE0-8A00-481B-AA5B-E8D27ED84A5A}.Debug|x64.ActiveCfg = Debug|x64
+		{A2145EE0-8A00-481B-AA5B-E8D27ED84A5A}.Debug|x64.Build.0 = Debug|x64
+		{A2145EE0-8A00-481B-AA5B-E8D27ED84A5A}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2145EE0-8A00-481B-AA5B-E8D27ED84A5A}.Debug|x86.Build.0 = Debug|Win32
+		{A2145EE0-8A00-481B-AA5B-E8D27ED84A5A}.Release|x64.ActiveCfg = Release|x64
+		{A2145EE0-8A00-481B-AA5B-E8D27ED84A5A}.Release|x64.Build.0 = Release|x64
+		{A2145EE0-8A00-481B-AA5B-E8D27ED84A5A}.Release|x86.ActiveCfg = Release|Win32
+		{A2145EE0-8A00-481B-AA5B-E8D27ED84A5A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A632C7D-B7CC-41A2-9F15-B2F84AE0B59A}
+	EndGlobalSection
+EndGlobal

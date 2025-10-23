@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #45---Month Of Year\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18F53439-C1BC-4A33-AD93-AB6E71141E3E}|Problem #45---Month Of Year\\Problem #45---Month Of Year.vcxproj|F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #45---Month Of Year\\Problem #45---Month Of Year\\Problem #45---Month Of Year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18F53439-C1BC-4A33-AD93-AB6E71141E3E}|Problem #45---Month Of Year\\Problem #45---Month Of Year.vcxproj|solutionrelative:Problem #45---Month Of Year\\Problem #45---Month Of Year.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem #45---Month Of Year.cpp",
+              "DocumentMoniker": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #45---Month Of Year\\Problem #45---Month Of Year\\Problem #45---Month Of Year.cpp",
+              "RelativeDocumentMoniker": "Problem #45---Month Of Year\\Problem #45---Month Of Year.cpp",
+              "ToolTip": "F:\\04 - Algorithms \u0026 Problem-Solving Level 1 Solutions\\Problem #45---Month Of Year\\Problem #45---Month Of Year\\Problem #45---Month Of Year.cpp",
+              "RelativeToolTip": "Problem #45---Month Of Year\\Problem #45---Month Of Year.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-23T11:29:24.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
